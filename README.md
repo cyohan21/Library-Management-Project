@@ -15,9 +15,13 @@ When you launch the program, you will see the following prompt:
 
 > Welcome to the Library App! Please enter one of the following:
 >> 1: View Book Availability
+>> 
 >> 2: Borrow Book
+>> 
 >> 3: Return Book
+>> 
 >> 4: View Catalog
+>> 
 >> 5: Exit
 
 If you enter `1`, the program will prompt you to enter the name of a book. If the book exists in the library, its availability status will be displayed. If the book is not found, an error message will appear.  
