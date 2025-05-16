@@ -1,6 +1,6 @@
 class LibraryDatabase:
     library_dict = {
-        'The Night Of The Living Dead': {'Author': 'Alexandre Guimault', 'Genre': 'Horroy', 'Availability': 'Available'},
+        'The Night Of The Living Dead': {'Author': 'Alexandre Guimault', 'Genre': 'Horror', 'Availability': 'Available'},
         'Measure For Measure': {'Author': 'William Shakespeare', 'Genre': 'Comedy', 'Availability': 'Not Available'},
         'The Three Musketeers': {'Author': 'Alexandre Dumas', 'Genre': 'Comedy', 'Availability': 'Available'}
     }
